@@ -1,2 +1,2 @@
 # Business-Analyst-Portfolio
-Need to add new BRD
+This is my first Git Repository.
